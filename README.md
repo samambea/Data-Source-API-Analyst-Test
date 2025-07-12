@@ -20,3 +20,17 @@ This repository houses a Google Colab notebook providing a Python script for int
 ## Core Functions
 
 The notebook defines 4 main Python functions to interact with the GitHub API. 
+
+This 4 functions are aligned with the client need described on the assignment. 
+
+The searchRepos function searches through the public repositories on Github from a specified query.
+The listCommits function retrieves the specified page amount of commits from a specific repository.
+The getContents function goes through a repository and gets the content of a specified file or directory.
+The listAllCommits gathers all commits from a repository.
+
+## My Challenges
+While the development was without many roadblocks, I had some issues with understanding the PAT setup and usage. Thankfully, the GitHub API docs was very intuitive, so I easily found the section about personal access tokens, now with complete grasp of the tasks ahead.
+
+This task was definitely out of my confort zone, but I'm confident in what I created and am delivering.
+
+Thanks for the opportunity!!
